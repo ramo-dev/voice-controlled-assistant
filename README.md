@@ -43,7 +43,7 @@ This project aims to create a voice-controlled assistant using Flask, enabling u
 
 ## Contributors
 
-- [Your Name](link-to-your-profile) - Role
+- [dfw_ramo](https://www.instagram.com/dfw_ramo/) - Developer
 
 ## License
 
